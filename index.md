@@ -8,3 +8,6 @@
 ```
 print("Hare Krsna")
 ```
+- [x] Started with github
+- [x] currently working on it
+- [ ] basics are done.
